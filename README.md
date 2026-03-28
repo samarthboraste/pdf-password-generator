@@ -1,6 +1,6 @@
 # 🔐 PDF Password Protector
 
-🚀 **Day 18/30 – 30 Days of Python Project Challenge**
+
 
 A Python-based tool to secure PDF files by adding password protection and restricting permissions using `pikepdf`.
 
